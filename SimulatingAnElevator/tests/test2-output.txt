@@ -1,0 +1,8 @@
+20 1 down
+25 2 up
+30 3 up
+35 2 down
+45 4 up
+50 5 up
+60 3 down
+70 1 down
